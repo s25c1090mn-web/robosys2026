@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# SPDX-FileCopyrightText: 2026　寿限無寿限無後光の擦り切れ海砂利水魚の水業松雲来松食う寝る処に住む処藪柑子の藪柑子パイポ パイポパイポのシューリンガンシューリンガンのグーリンダイグーリンダイのポンポコピーのポンポコナーの長久命の長助
+# SPDX-FileCopyrightText: 2026　福井咲哉
 import sys
 
 def tonum(s):
